@@ -1,7 +1,7 @@
 # DS-Practice starting my journey in Data Science :) !
 EDA and ML application on Kaggle Datasets for practice.
 
-Exploritary Data Analysis for Boston dataset.
+Exploratory Data Analysis for Boston dataset.
 https://www.kaggle.com/c/boston-housing
 
 Applying Machine Learning Algorithims like Decission Trees,KNN,Random forest on kaggle datsets using the Sklearn Library in python.
